@@ -1,0 +1,23 @@
+Goodbye, GitHub 🫡
+
+Today marks the official end of my time at GitHub. In some ways, it _already_ feels like a memory. Why? Well, my last working day was May 13th, and as of today (July 14th), I’m officially no longer a Hubber (shout out to the WARN Act for that). 🫗 I'm now a Xubber.
+
+That Tuesday, I was invited to a sudden “Quick Sync” that I was asked to “prioritize.” It felt... a little too obvious what was coming especially once we realized only two people on my team were invited. By noon, my access had been cut, and I was reading through a “Separation Agreement” filled with language about Reduction In Force and everything I “needed to know.” Life, as they say, comes at you fast.
+
+This is a difficult note to write, even after having the time to sit with this reality.  GitHub wasn’t just a job for me. It was a place where I felt trusted, empowered, and surrounded by some of the most thoughtful, capable, and genuinely good people I’ve ever worked with. In fact, the way I became a "Hubber" was through a program called Dreamlifter, where a lot of Microsoft employees were, in bulk, transferred to GitHub. Dreamlifter! Anyway... A number of us became good friends outside of work, which has rarely been the case for me in past roles. I loved the challenges we took on, the autonomy to go deep, and the clear, tangible impact of our efforts. That combination made it all feel meaningful in a way that’s hard to describe. We faced more than our fair share of tough problems but we faced them together. And those shared experiences brought us closer, every time.
+
+What makes this all the more surreal is that just a few months prior, I had been awarded a retention grant. At the time, it felt like a genuine vote of confidence from leadership... a signal that I was seen, valued, and part of the long-term plan. So, to borrow a popular phrase, I leaned in. I tried to be a better teammate, a more impactful engineer, and someone others could count on. When I was told my role was being eliminated, it caught me entirely off guard. And if I’m honest, I’m still processing it. I hear all the “it wasn’t you” and “it wasn’t personal” sentiments, but it’s hard to square those with reality. I'll get there though :)
+
+One early chapter I’ll never forget is my time with the MacCloud team. I spent years in the trenches with the quirks and complexity of shoving Apple-based infrastructure into racks, the into Azure (and let’s be real, Apple fights you _every damn inch_ of the way). The work was deeply technical, often chaotic, and incredibly fulfilling. We kept critical systems running for a huge number of developers, and yeah sometimes it felt like it was all held together with chewing gum and bailing twine. But it worked. And the team was top-tier. That kind of behind-the-scenes engineering where you hold the line and quietly keep everything moving (while also saving and making real money for the business) sticks with you.
+
+Of course, I’d be remiss not to mention my time with the Compute Foundation team which was the main crew I was part of throughout. When I joined the team, it was just three of us (hey Jesse and Anthony 👋), and at times it felt like a win just to keep the lights on. We had fun, too, don't get me wrong. I can’t even begin to list everything we shipped, or the countless hours we put in to bring real stability, reliability, security, and performance to the core of our infrastructure. As the team grew and found its footing, we were able to execute a clearer vision and we launched some incredible capabilities along the way. I will miss our team deeply, and I genuinely hope you get to push those efforts across the finish line. I’d love to hear about how they accelerated everything!
+
+More than anything, though, I’ll miss the people. The beautiful chaos of Slack (Pastry Friday crew, I miss your weekly photos), the quiet wins in the off-hours (late nights with folks like Simon, Raffo, Annika, and many others), the debugging marathons and incidents (_cough_ 2079 _cough_) that somehow turned into moments of real triumph. If we worked together, thank you. If you mentored me, challenged me, supported me, or even just shared a virtual coffee or well-timed emoji, thank you. Even if we only crossed paths in docs, issues, or PRs, I see you, and I appreciate you. You made an impact.
+
+I don’t know what’s next just yet. I’m exploring options and opportunities. As always, I’m curious, and learning in my off time. And I’m hopeful for whatever the future will be.
+
+For now, I’m just deeply grateful for the time I had at GitHub. It was real and it was special.
+
+Onward, upward. 🚀
+
+-Selta / Ray
