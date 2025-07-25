@@ -9,7 +9,7 @@ This is in no way exhaustive, but, some general thoughts about my own journey. I
 
 <img width="2015" height="1287" alt="image" src="https://github.com/user-attachments/assets/01bacfd4-f0b5-4938-a93f-e6dde9eec9ac" />
 
-_A personal opinion_ - companies doing what I'll brand as "extreme" interviews (>6 interview steps after the first screenign call), I mentally depriorized at least a little. To me, needing that many interviews to make a decision was itself a signal, and not a positive one. There was one instance where a company had 8 interviews _after_ the initial screening. I had other concerns going into that one, and when I heard that process, I politely removed myself from their consideration. This is a priviledged position for me to take, and not everyone has the luxury to do this, which I fully acknowledge.
+_A personal opinion_ - companies doing what I'll brand as "extreme" interviews (>6 interview steps after the first screening call), I mentally depriorized at least a little. To me, needing that many interviews to make a decision was itself a signal, and not a positive one. There was one instance where a company had 8 interviews _after_ the initial screening. I had other concerns going into that one, and when I heard that process, I politely removed myself from their consideration. This is a priviledged position for me to take, and not everyone has the luxury to do this, which I fully acknowledge.
 
 
 ### About AI
